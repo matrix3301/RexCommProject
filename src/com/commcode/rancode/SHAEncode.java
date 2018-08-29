@@ -28,7 +28,7 @@ public class SHAEncode {
     /*
      * 字符串转码
      */
-    public String enCoding() throws NoSuchAlgorithmException {
+    String enCoding() throws NoSuchAlgorithmException {
         // 调用需要转码的构造函数
         MessageDigest mySHA = MessageDigest.getInstance(encode);
         // 将需要转码的字符串以字节数组的形式赋值转码对象
