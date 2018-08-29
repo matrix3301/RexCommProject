@@ -1,2 +1,2 @@
 # RexCommProject
-Rex的公共程序代码库
+Rex的公共常用程序代码
